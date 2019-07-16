@@ -1,0 +1,24 @@
+{
+  "name": "r2new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashupatil123/r2new.git"
+  },
+  "keywords": [
+    "A",
+    "B",
+    "C"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashupatil123/r2new/issues"
+  },
+  "homepage": "https://github.com/ashupatil123/r2new#readme"
+}
